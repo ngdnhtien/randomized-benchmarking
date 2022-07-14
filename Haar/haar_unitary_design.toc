@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Unitary randomized benchmarking}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Generate RB sequences}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Measure survival probability \& fit results}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Intuition behind URB}{11}{0}{1}
+\beamer@subsectionintoc {1}{4}{Mathematical motivation}{12}{0}{1}
+\beamer@sectionintoc {2}{Haar measure}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{The motivation of measure theory}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{The Haar measure}{16}{0}{2}
+\beamer@subsectionintoc {2}{3}{Haar measure in U(2)}{17}{0}{2}
+\beamer@subsectionintoc {2}{4}{Haar measure in U(N)}{20}{0}{2}
+\beamer@sectionintoc {3}{Unitary t-design}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{The problem of efficient randomization}{23}{0}{3}
+\beamer@subsectionintoc {3}{2}{Motivation: spherical t-design}{24}{0}{3}
+\beamer@subsectionintoc {3}{3}{Unitary t-design}{26}{0}{3}
+\beamer@subsectionintoc {3}{4}{Unitary t-design in action}{27}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{30}{0}{4}
